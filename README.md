@@ -69,10 +69,10 @@
 - [X] 12. Creating Hello World REST API using @RestController *(8:09)*
 - [X] 13. Configuring H2 DB & YAML properties *(14:45)*
 - [X] 14. IMPORTANT: Issue related to Lombok in IntelliJ IDEA *(0:41)*
-- [ ] 15. Writing Spring Data JPA entities & repositories to interact with DB tables *(17:50)*
-- [ ] 16. Introduction to DTO (Data Transfer Object) pattern *(6:35)*
-- [ ] 17. Creating DTOs inside accounts microservice *(9:19)*
-- [ ] 18. CREATE API inside accounts microservice - Part 1 *(16:39)*
+- [X] 15. Writing Spring Data JPA entities & repositories to interact with DB tables *(17:50)*
+- [X] 16. Introduction to DTO (Data Transfer Object) pattern *(6:35)*
+- [X] 17. Creating DTOs inside accounts microservice *(9:19)*
+- [X] 18. CREATE API inside accounts microservice - Part 1 *(16:39)*
 - [ ] 19. CREATE API inside accounts microservice - Part 2 *(22:07)*
 - [ ] 20. READ API inside accounts microservice *(14:54)*
 
