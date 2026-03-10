@@ -73,7 +73,7 @@
 - [X] 16. Introduction to DTO (Data Transfer Object) pattern *(6:35)*
 - [X] 17. Creating DTOs inside accounts microservice *(9:19)*
 - [X] 18. CREATE API inside accounts microservice - Part 1 *(16:39)*
-- [ ] 19. CREATE API inside accounts microservice - Part 2 *(22:07)*
+- [X] 19. CREATE API inside accounts microservice - Part 2 *(22:07)*
 - [ ] 20. READ API inside accounts microservice *(14:54)*
 
 ---
