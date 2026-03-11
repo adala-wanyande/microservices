@@ -13,8 +13,6 @@
 | Metric | Value |
 |---|---|
 | Total Lectures | 283 |
-| Start Date | March 7, 2026 |
-| Target End Date | April 4, 2026 |
 | Daily Target | 10 videos/day |
 | Total Days | 29 |
 
@@ -46,7 +44,7 @@
 
 ---
 
-### Day 1 — Saturday, March 7, 2026
+### Day 1
 **Section: Introduction & Microservices Architecture**
 
 - [X] 1. Introduction to the course & Agenda *(6:24)*
@@ -62,7 +60,7 @@
 
 ---
 
-### Day 2 — Sunday, March 8, 2026
+### Day 2
 **Section: Building Accounts Microservice**
 
 - [X] 11. Creating a Spring Boot project *(12:37)*
@@ -78,7 +76,7 @@
 
 ---
 
-### Day 3 — Monday, March 9, 2026
+### Day 3
 **Section: Building Accounts Microservice (continued)**
 
 - [ ] 21. UPDATE API inside accounts microservice *(9:37)*
@@ -94,7 +92,7 @@
 
 ---
 
-### Day 4 — Tuesday, March 10, 2026
+### Day 4
 **Section: Loans & Cards Microservices + Sizing Boundaries**
 
 - [ ] 31. Important Annotations & Classes that supports building REST services *(6:48)*
@@ -110,7 +108,7 @@
 
 ---
 
-### Day 5 — Wednesday, March 11, 2026
+### Day 5
 **Section: Docker**
 
 - [ ] 41. Definition of Containers, Containerization, Docker *(10:59)*
@@ -126,7 +124,7 @@
 
 ---
 
-### Day 6 — Thursday, March 12, 2026
+### Day 6
 **Section: Docker (continued)**
 
 - [ ] 51. Generate Docker Image of Cards microservice with Google Jib *(11:58)*
@@ -142,7 +140,7 @@
 
 ---
 
-### Day 7 — Friday, March 13, 2026
+### Day 7
 **Section: Cloud-Native Applications & 15-Factor Methodology**
 
 - [ ] 61. Important characteristics of cloud-native applications *(5:29)*
@@ -158,7 +156,7 @@
 
 ---
 
-### Day 8 — Saturday, March 14, 2026
+### Day 8
 **Section: Configuration Management**
 
 - [ ] 71. Reading configurations using @ConfigurationProperties *(12:49)*
@@ -174,7 +172,7 @@
 
 ---
 
-### Day 9 — Sunday, March 15, 2026
+### Day 9
 **Section: Configuration Management (Spring Cloud Config)**
 
 - [ ] 81. Reading configurations from the class path location of Config Server *(11:27)*
@@ -190,7 +188,7 @@
 
 ---
 
-### Day 10 — Monday, March 16, 2026
+### Day 10
 **Section: Config Server + MySQL DB Integration**
 
 - [ ] 91. Introduction to Liveness and Readiness probes *(10:13)*
@@ -206,7 +204,7 @@
 
 ---
 
-### Day 11 — Tuesday, March 17, 2026
+### Day 11
 **Section: Service Discovery & Registration (Eureka)**
 
 - [ ] 101. Demo of Docker network concept *(7:05)*
@@ -222,7 +220,7 @@
 
 ---
 
-### Day 12 — Wednesday, March 18, 2026
+### Day 12
 **Section: Service Discovery (continued)**
 
 - [ ] 111. De-registration from Eureka server when microservices shutdown *(5:31)*
@@ -238,7 +236,7 @@
 
 ---
 
-### Day 13 — Thursday, March 19, 2026
+### Day 13
 **Section: API Gateway (Spring Cloud Gateway)**
 
 - [ ] 121. Challenges while dealing external communication in microservices *(4:59)*
@@ -254,7 +252,7 @@
 
 ---
 
-### Day 14 — Friday, March 20, 2026
+### Day 14
 **Section: API Gateway (continued) + Resiliency intro**
 
 - [ ] 131. Implementing Cross cutting concerns Tracing & Logging using Gateway - Part 2 *(14:12)*
@@ -270,7 +268,7 @@
 
 ---
 
-### Day 15 — Saturday, March 21, 2026
+### Day 15
 **Section: Resiliency (RESILIENCE4J)**
 
 - [ ] 141. Implementing Circuit Breaker pattern with Feign Client - Part 1 *(9:42)*
@@ -286,7 +284,7 @@
 
 ---
 
-### Day 16 — Sunday, March 22, 2026
+### Day 16
 **Section: Resiliency (continued) + Observability begins**
 
 - [ ] 151. Implementing RateLimiter pattern in accounts *(8:20)*
@@ -302,7 +300,7 @@
 
 ---
 
-### Day 17 — Monday, March 23, 2026
+### Day 17
 **Section: Observability & Monitoring (Loki, Prometheus, Grafana, Tempo)**
 
 - [ ] 161. Implementing logging using Grafana, Loki & promtail - Part 1 *(16:15)*
@@ -318,7 +316,7 @@
 
 ---
 
-### Day 18 — Tuesday, March 24, 2026
+### Day 18
 **Section: Observability (continued) + Security intro**
 
 - [ ] 171. Create Alerts & Send notifications using Grafana - Approach 2 *(7:38)*
@@ -334,7 +332,7 @@
 
 ---
 
-### Day 19 — Wednesday, March 25, 2026
+### Day 19
 **Section: Microservices Security (OAuth2, OpenID Connect, KeyCloak)**
 
 - [ ] 181. Problems that OAuth2 solves *(9:28)*
@@ -350,7 +348,7 @@
 
 ---
 
-### Day 20 — Thursday, March 26, 2026
+### Day 20
 **Section: Security (continued)**
 
 - [ ] 191. Securing Gateway server as a Resource server - Part 1 *(13:47)*
@@ -366,7 +364,7 @@
 
 ---
 
-### Day 21 — Friday, March 27, 2026
+### Day 21
 **Section: Event-Driven Microservices (RabbitMQ, Spring Cloud Functions & Stream)**
 
 - [ ] 201. Introduction to Event-driven microservices *(7:38)*
@@ -382,7 +380,7 @@
 
 ---
 
-### Day 22 — Saturday, March 28, 2026
+### Day 22
 **Section: Event-Driven (RabbitMQ continued) + Kafka**
 
 - [ ] 211. Demo of Async communication or event streaming using Rabbit MQ - Part 1 *(11:47)*
@@ -398,7 +396,7 @@
 
 ---
 
-### Day 23 — Sunday, March 29, 2026
+### Day 23
 **Section: Kubernetes**
 
 - [ ] 221. Introduction to the challenges related to container orchestration *(8:40)*
@@ -414,7 +412,7 @@
 
 ---
 
-### Day 24 — Monday, March 30, 2026
+### Day 24
 **Section: Kubernetes (continued) + Helm intro**
 
 - [ ] 231. Automatic Self healing inside Kubernetes cluster *(6:01)*
@@ -430,7 +428,7 @@
 
 ---
 
-### Day 25 — Tuesday, March 31, 2026
+### Day 25
 **Section: Helm**
 
 - [ ] 241. Creating our own Helm chart & template files *(17:00)*
@@ -446,7 +444,7 @@
 
 ---
 
-### Day 26 — Wednesday, April 1, 2026
+### Day 26
 **Section: Helm (continued) + Spring Cloud Kubernetes**
 
 - [ ] 251. Install eazybank microservices in Kubernetes Cluster using Helm Chart *(10:12)*
@@ -462,7 +460,7 @@
 
 ---
 
-### Day 27 — Thursday, April 2, 2026
+### Day 27
 **Section: GKE (Google Kubernetes Engine) + Kubernetes Ingress**
 
 - [ ] 261. Updating Helm charts for Kubernetes Discovery Server changes *(11:39)*
@@ -478,7 +476,7 @@
 
 ---
 
-### Day 28 — Friday, April 3, 2026
+### Day 28
 **Section: Ingress + Service Mesh + mTLS + Spring Boot BOM**
 
 - [ ] 271. Deep dive on Kubernetes Ingress & Ingress Controller *(11:00)*
@@ -494,7 +492,7 @@
 
 ---
 
-### Day 29 — Saturday, April 4, 2026
+### Day 29
 **Section: Shared Libraries + Course Wrap-up**
 
 - [ ] 281. Shared Libraries in Microservices - Part 1 *(6:54)*
@@ -506,5 +504,5 @@
 ## Notes
 
 - Each video = 1 git commit. Suggested commit format: `feat(section-name): video title`
-- The 29-day schedule runs every day including weekends. Adjust the end date if you take days off.
+- The 29-day schedule runs every day including weekends. Adjust as needed if you take days off.
 - Days 1-15 are heavier sections (complex coding); days 23-28 are Kubernetes/Helm heavy — plan accordingly.
