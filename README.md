@@ -72,33 +72,33 @@
 - [X] 17. Creating DTOs inside accounts microservice *(9:19)*
 - [X] 18. CREATE API inside accounts microservice - Part 1 *(16:39)*
 - [X] 19. CREATE API inside accounts microservice - Part 2 *(22:07)*
-- [ ] 20. READ API inside accounts microservice *(14:54)*
+- [X] 20. READ API inside accounts microservice *(14:54)*
 
 ---
 
 ### Day 3
 **Section: Building Accounts Microservice (continued)**
 
-- [ ] 21. UPDATE API inside accounts microservice *(9:37)*
-- [ ] 22. DELETE API inside accounts microservice *(7:59)*
-- [ ] 23. Handle all types of runtime exceptions using global logic inside accounts *(4:52)*
-- [ ] 24. Perform input data validations inside accounts microservice *(14:49)*
-- [ ] 25. Update audit columns using Spring Data *(7:31)*
-- [ ] 26. Introduction to documentation of REST APIs using springdoc openapi *(11:03)*
-- [ ] 27. Enhancing documentation of REST APIs using @OpenAPIDefinition *(8:09)*
-- [ ] 28. Enhancing documentation of REST APIs using @Tag, @Operation, @ApiResponse *(7:45)*
-- [ ] 29. Enhancing documentation of REST APIs using @Schema & example data - Part 1 *(9:15)*
-- [ ] 30. Enhancing documentation of REST APIs using @Schema & example data - Part 2 *(4:23)*
+- [X] 21. UPDATE API inside accounts microservice *(9:37)*
+- [X] 22. DELETE API inside accounts microservice *(7:59)*
+- [X] 23. Handle all types of runtime exceptions using global logic inside accounts *(4:52)*
+- [X] 24. Perform input data validations inside accounts microservice *(14:49)*
+- [X] 25. Update audit columns using Spring Data *(7:31)*
+- [X] 26. Introduction to documentation of REST APIs using springdoc openapi *(11:03)*
+- [X] 27. Enhancing documentation of REST APIs using @OpenAPIDefinition *(8:09)*
+- [X] 28. Enhancing documentation of REST APIs using @Tag, @Operation, @ApiResponse *(7:45)*
+- [X] 29. Enhancing documentation of REST APIs using @Schema & example data - Part 1 *(9:15)*
+- [X] 30. Enhancing documentation of REST APIs using @Schema & example data - Part 2 *(4:23)*
 
 ---
 
 ### Day 4
 **Section: Loans & Cards Microservices + Sizing Boundaries**
 
-- [ ] 31. Important Annotations & Classes that supports building REST services *(6:48)*
-- [ ] 32. Assignment to build Loans & Cards microservices *(3:37)*
-- [ ] 33. Deep dive and demo of Loans microservice *(16:31)*
-- [ ] 34. Deep dive and demo of Cards microservice *(10:12)*
+- [X] 31. Important Annotations & Classes that supports building REST services *(6:48)*
+- [X] 32. Assignment to build Loans & Cards microservices *(3:37)*
+- [X] 33. Deep dive and demo of Loans microservice *(16:31)*
+- [X] 34. Deep dive and demo of Cards microservice *(10:12)*
 - [ ] 35. Approaches to identify boundaries & right size microservices *(13:04)*
 - [ ] 36. Sizing & identifying boundaries with a Bank App use case *(6:05)*
 - [ ] 37. Sizing & identifying boundaries with a ecommerce migration use case *(7:57)*
